@@ -6,13 +6,13 @@ Bu repoda üç farklı Figma çalışmam bulunmaktadır. Her biri farklı bir ko
 
 | Kategori         | Açıklama                    | Klasör              |
 |------------------|-----------------------------|----------------------|
-| Post Tasarımı    | Instagram/Sosyal medya postları | `/post-design`     |
-| Web Site UI      | Landing page & detay sayfaları | `/website-ui`      |
-| Mobil Uygulama UI| Giriş ekranı, dashboard tasarımı | `/mobile-app`      |
+| Post Tasarımı    | Instagram/Sosyal medya postları | `/instagram-post`     |
+| Web Site UI      | Landing page & detay sayfaları | `/web_design`      |
+| Mobil Uygulama UI| Giriş ekranı, dashboard tasarımı | `/mobile_app_design`      |
 
 ## 👁️ Önizleme
 
-Tüm tasarımların export edilmiş PNG görselleri `preview` klasörlerinde yer alır. Ayrıca tüm tasarımların toplu PDF sunumu `/docs/All-Designs-Overview.pdf` içindedir.
+Tüm tasarımların export edilmiş PNG görselleri `preview` klasörlerinde yer alır.
 
 ## 🛠️ Kullanım
 
